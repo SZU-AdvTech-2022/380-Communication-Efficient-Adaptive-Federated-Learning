@@ -1,12 +1,10 @@
-
-@InProceedings{pmlr-v162-wang22o,
-  title = 	 {Communication-Efficient Adaptive Federated Learning},
-  author =       {Wang, Yujia and Lin, Lu and Chen, Jinghui},
-  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
-  pages = 	 {22802--22838},
-  year = 	 {2022},
-  volume = 	 {162},
-  series = 	 {Proceedings of Machine Learning Research},
-  month = 	 {17--23 Jul},
-  publisher =    {PMLR}
+@inproceedings{REPO-381,
+    author = "Wang, Yujia and Lin, Lu and Chen, Jinghui",
+    booktitle = "Proceedings of the 39th International Conference on Machine Learning",
+    pages = "22802--22838",
+    publisher = "PMLR",
+    series = "Proceedings of Machine Learning Research",
+    title = "{Communication-Efficient Adaptive Federated Learning}",
+    volume = "162",
+    year = "2022"
 }
