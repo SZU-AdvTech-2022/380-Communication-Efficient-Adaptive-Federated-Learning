@@ -1,0 +1,10 @@
+@inproceedings{REPO-381,
+    author = "Wang, Yujia and Lin, Lu and Chen, Jinghui",
+    booktitle = "Proceedings of the 39th International Conference on Machine Learning",
+    pages = "22802--22838",
+    publisher = "PMLR",
+    series = "Proceedings of Machine Learning Research",
+    title = "{Communication-Efficient Adaptive Federated Learning}",
+    volume = "162",
+    year = "2022"
+}
